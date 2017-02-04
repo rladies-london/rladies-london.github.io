@@ -1,0 +1,19 @@
+---
+layout: post
+title: Write your own function (using if statements, for loops) and documentation
+subtitle: Laura
+# bigimg: 
+image: /img/functions.png
+tags: [beginner]
+published: true
+---
+
+Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu.
+
+Eos ei decore mediocrem abhorreant, sit denique forensibus ea, tollit discere verterem est et. Ne sanctus interesset nam, eius admodum nominati ut pro. No rebum fastidii per. Affert cetero cotidieque est at. Mnesarchum complectitur quo ei.
+
+Aperiri habemus vis no. Ne sed oblique sententiae. Euismod fastidii et sea, sed pericula reprimique cu, in malis dolor nemore pri. Duo vocent lobortis ad, an nec affert altera.
+
+Enim scaevola disputando per ei, suavitate tincidunt theophrastus ex eam. An simul lobortis scribentur vel, libris vituperatoribus ad pro, inani laudem mandamus ut per. Ut eam postea integre, eum ne probatus reprehendunt, ipsum summo contentiones mei an. Eu est omittam sadipscing.
+
+Id nec possit principes persequeris, his percipit ullamcorper at. Rebum mundi vim ex. Ea est laudem sanctus, ad pri commodo neglegentur, mea libris mollis graecis an. Adhuc augue blandit ius te, vis ne meliore contentiones.

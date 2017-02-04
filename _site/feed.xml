@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-Ladies London</title>
+    <description>Event plan</description>
+    <link>http://localhost:4444</link>
+    <atom:link href="http://localhost:4444/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Yearly review</title>
+        <description>
+          ??? - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 20 Dec 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4444/2017-12-20-review/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-12-20-review/</guid>
+      </item>
+    
+      <item>
+        <title>The tidyverse / data wrangling</title>
+        <description>
+          ??? - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 22 Nov 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4444/2017-11-22-tidyverse/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-11-22-tidyverse/</guid>
+      </item>
+    
+      <item>
+        <title>Write your own function (using if statements, for loops) and documentation</title>
+        <description>
+          Laura - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 25 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-10-25-functions/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-10-25-functions/</guid>
+      </item>
+    
+      <item>
+        <title>Beginner Session + Abstract/Lighting Talks</title>
+        <description>
+          Claudia &amp; Grace - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-09-20-beginner/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-09-20-beginner/</guid>
+      </item>
+    
+      <item>
+        <title>The most useful functions</title>
+        <description>
+          ??? - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 23 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-08-23-useful-functions/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-08-23-useful-functions/</guid>
+      </item>
+    
+      <item>
+        <title>All about Viz (plots, maps, networks,...)</title>
+        <description>
+          ??? - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 26 Jul 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-07-26-viz/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-07-26-viz/</guid>
+      </item>
+    
+      <item>
+        <title>Beginner Session + Abstract/Lighting Talks</title>
+        <description>
+          Claudia &amp; Grace - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 21 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-06-21-beginner/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-06-21-beginner/</guid>
+      </item>
+    
+      <item>
+        <title>From basic data analysis to kaggle competitions</title>
+        <description>
+          Grace - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 17 May 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-05-17-kaggle/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-05-17-kaggle/</guid>
+      </item>
+    
+      <item>
+        <title>Make your own blog/website</title>
+        <description>
+          Claudia - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 26 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-04-26-blog/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-04-26-blog/</guid>
+      </item>
+    
+      <item>
+        <title>Social event</title>
+        <description>
+          ALL - 
+          Sci Museum Maths wing visit plus Kaggle Pizza!
+
+        </description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-03-15-social/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-03-15-social/</guid>
+      </item>
+    
+      <item>
+        <title>CV workshop + Intro to useR (tips to get your abstract accepted)</title>
+        <description>
+          Grace - 
+          Lorem ipsum dolor sit amet, qui no consequat dissentiunt, his tale omnesque appareat no. No facilis alienum placerat eos. Nulla recteque ut eam, nihil philosophia ea vis. Sed et ignota consequuntur, has diam nostro epicuri te, mei reque eleifend sadipscing ad. His odio scripta ne. Enim summo appareat est eu....
+        </description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4444/2017-03-15-cvworkshop/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-03-15-cvworkshop/</guid>
+      </item>
+    
+      <item>
+        <title>Reproducible R docs and GitHub</title>
+        <description>
+          Steph Locke - 
+          We are over the moon to have Steph Locke, a prominent R lady practitioner on the global tech scene, doing an Intermediate-level session on git/github and Rmarkdown for R-Ladies London!! She is based in Cardiff, hence we are privileged to have her in the big smoke for this session. Steph’s...
+        </description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4444/2017-02-13-rmarkdown/</link>
+        <guid isPermaLink="true">http://localhost:4444/2017-02-13-rmarkdown/</guid>
+      </item>
+    
+  </channel>
+</rss>
